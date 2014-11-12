@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere docid="fbis_eng_20010903.1680" source_type="narrative" kit_id="50b6691cdba4a91f7c00000d">
+  <entities>
+    <entity id="ent-1" name="entity-PER-2" type="PER">
+      <entity_mention id="m-1" source="fbis_eng_20010903.1680" noun_type="NAM" offset="721" length="16">MAHATHIR MOHAMAD</entity_mention>
+      <entity_mention id="m-2" source="fbis_eng_20010903.1680" noun_type="NAM" offset="903" length="8">MAHATHIR</entity_mention>
+      <entity_mention id="m-3" source="fbis_eng_20010903.1680" noun_type="PRO" offset="913" length="3">WHO</entity_mention>
+      <entity_mention id="m-4" source="fbis_eng_20010903.1680" noun_type="NOM" offset="1188" length="7">PREMIER</entity_mention>
+      <entity_mention id="m-5" source="fbis_eng_20010903.1680" noun_type="PRO" offset="1201" length="3">HIS</entity_mention>
+      <entity_mention id="m-6" source="fbis_eng_20010903.1680" noun_type="NAM" offset="1343" length="8">MAHATHIR</entity_mention>
+      <entity_mention id="m-7" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2274" length="7">PREMIER</entity_mention>
+      <entity_mention id="m-8" source="fbis_eng_20010903.1680" noun_type="NAM" offset="2460" length="8">MAHATHIR</entity_mention>
+      <entity_mention id="m-9" source="fbis_eng_20010903.1680" noun_type="NAM" offset="3012" length="8">MAHATHIR</entity_mention>
+      <entity_mention id="m-10" source="fbis_eng_20010903.1680" noun_type="NAM" offset="3289" length="8">MAHATHIR</entity_mention>
+      <entity_mention id="m-11" source="fbis_eng_20010903.1680" noun_type="PRO" offset="3479" length="2">HE</entity_mention>
+      <entity_mention id="m-12" source="fbis_eng_20010903.1680" noun_type="NOM" offset="3644" length="7">PREMIER</entity_mention>
+      <entity_mention id="m-13" source="fbis_eng_20010903.1680" noun_type="NAM" offset="3910" length="8">MAHATHIR</entity_mention>
+      <entity_mention id="m-14" source="fbis_eng_20010903.1680" noun_type="PRO" offset="4097" length="2">HE</entity_mention>
+      <entity_mention id="m-15" source="fbis_eng_20010903.1680" noun_type="NOM" offset="4449" length="7">PREMIER</entity_mention>
+    </entity>
+    <entity id="ent-2" name="entity-PER-3" type="PER">
+      <entity_mention id="m-16" source="fbis_eng_20010903.1680" noun_type="NOM" offset="3939" length="8">QUARTERS</entity_mention>
+      <entity_mention id="m-17" source="fbis_eng_20010903.1680" noun_type="PRO" offset="3948" length="3">WHO</entity_mention>
+    </entity>
+    <entity id="ent-3" name="entity-PER-4" type="PER">
+      <entity_mention id="m-18" source="fbis_eng_20010903.1680" noun_type="NAM" offset="2016" length="14">GEORGE"
+"SOROS</entity_mention>
+    </entity>
+    <entity id="ent-4" name="entity-PER-5" type="PER">
+      <entity_mention id="m-19" source="fbis_eng_20010903.1680" noun_type="NAM" offset="841" length="9">INVESTORS</entity_mention>
+      <entity_mention id="m-20" source="fbis_eng_20010903.1680" noun_type="NOM" offset="3304" length="9">INVESTORS</entity_mention>
+      <entity_mention id="m-21" source="fbis_eng_20010903.1680" noun_type="PRO" offset="3372" length="5">THEIR</entity_mention>
+      <entity_mention id="m-22" source="fbis_eng_20010903.1680" noun_type="NOM" offset="3496" length="9">INVESTORS</entity_mention>
+    </entity>
+    <entity id="ent-5" name="entity-PER-6" type="PER">
+      <entity_mention id="m-23" source="fbis_eng_20010903.1680" noun_type="NOM" offset="1332" length="9">INVESTORS</entity_mention>
+    </entity>
+    <entity id="ent-6" name="entity-PER-7" type="PER">
+      <entity_mention id="m-24" source="fbis_eng_20010903.1680" noun_type="NOM" offset="1305" length="8">AUDIENCE</entity_mention>
+    </entity>
+    <entity id="ent-7" name="entity-PER-8" type="PER">
+      <entity_mention id="m-25" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2890" length="10">ECONOMISTS</entity_mention>
+    </entity>
+    <entity id="ent-8" name="entity-ORG-2" type="ORG">
+      <entity_mention id="m-26" source="fbis_eng_20010903.1680" noun_type="PRO" offset="1066" length="2">WE</entity_mention>
+      <entity_mention id="m-27" source="fbis_eng_20010903.1680" noun_type="PRO" offset="1093" length="3">OUR</entity_mention>
+      <entity_mention id="m-28" source="fbis_eng_20010903.1680" noun_type="PRO" offset="1158" length="3">OUR</entity_mention>
+    </entity>
+    <entity id="ent-9" name="entity-ORG-3" type="ORG">
+      <entity_mention id="m-29" source="fbis_eng_20010903.1680" noun_type="NOM" offset="1454" length="9">COMPANIES</entity_mention>
+      <entity_mention id="m-30" source="fbis_eng_20010903.1680" noun_type="NOM" offset="1735" length="9">COMPANIES</entity_mention>
+    </entity>
+    <entity id="ent-10" name="entity-ORG-4" type="ORG">
+      <entity_mention id="m-31" source="fbis_eng_20010903.1680" noun_type="NOM" offset="1684" length="9">COMMITTEE</entity_mention>
+      <entity_mention id="m-32" source="fbis_eng_20010903.1680" noun_type="PRO" offset="1694" length="5">WHICH</entity_mention>
+    </entity>
+    <entity id="ent-11" name="entity-ORG-5" type="ORG">
+      <entity_mention id="m-33" source="fbis_eng_20010903.1680" noun_type="NOM" offset="1878" length="10">GOVERNMENT</entity_mention>
+      <entity_mention id="m-34" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2518" length="10">GOVERNMENT</entity_mention>
+      <entity_mention id="m-35" source="fbis_eng_20010903.1680" noun_type="PRO" offset="2611" length="2">IT</entity_mention>
+      <entity_mention id="m-36" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2685" length="10">GOVERNMENT</entity_mention>
+      <entity_mention id="m-37" source="fbis_eng_20010903.1680" noun_type="PRO" offset="2706" length="3">ITS</entity_mention>
+      <entity_mention id="m-38" source="fbis_eng_20010903.1680" noun_type="NOM" offset="3666" length="10">GOVERNMENT</entity_mention>
+    </entity>
+    <entity id="ent-12" name="entity-ORG-6" type="ORG">
+      <entity_mention id="m-39" source="fbis_eng_20010903.1680" noun_type="NAM" offset="2345" length="8">THE CDRC</entity_mention>
+    </entity>
+    <entity id="ent-13" name="entity-ORG-7" type="ORG">
+      <entity_mention id="m-40" source="fbis_eng_20010903.1680" noun_type="NAM" offset="2483" length="13">THE SUN DAILY</entity_mention>
+    </entity>
+    <entity id="ent-14" name="entity-ORG-8" type="ORG">
+      <entity_mention id="m-41" source="fbis_eng_20010903.1680" noun_type="NAM" offset="2556" length="5">PUTRA</entity_mention>
+    </entity>
+    <entity id="ent-15" name="entity-ORG-9" type="ORG">
+      <entity_mention id="m-42" source="fbis_eng_20010903.1680" noun_type="NAM" offset="2566" length="4">STAR</entity_mention>
+    </entity>
+    <entity id="ent-16" name="entity-ORG-10" type="ORG">
+      <entity_mention id="m-43" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2597" length="9">COMPANIES</entity_mention>
+      <entity_mention id="m-44" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2754" length="9">COMPANIES</entity_mention>
+    </entity>
+    <entity id="ent-17" name="entity-ORG-11" type="ORG">
+      <entity_mention id="m-45" source="fbis_eng_20010903.1680" noun_type="NOM" offset="4717" length="16">COPYRIGHT
+OWNERS</entity_mention>
+    </entity>
+    <entity id="ent-18" name="entity-GPE-2" type="GPE">
+      <entity_mention id="m-46" source="fbis_eng_20010903.1680" noun_type="NOM" offset="871" length="7">COUNTRY</entity_mention>
+      <entity_mention id="m-47" source="fbis_eng_20010903.1680" noun_type="NAM" offset="992" length="8">MALAYSIA</entity_mention>
+      <entity_mention id="m-48" source="fbis_eng_20010903.1680" noun_type="NAM" offset="1227" length="9">MALAYSIAN</entity_mention>
+      <entity_mention id="m-49" source="fbis_eng_20010903.1680" noun_type="NAM" offset="1581" length="9">MALAYSIAN</entity_mention>
+      <entity_mention id="m-50" source="fbis_eng_20010903.1680" noun_type="NOM" offset="1908" length="7">COUNTRY</entity_mention>
+      <entity_mention id="m-51" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2163" length="7">COUNTRY</entity_mention>
+      <entity_mention id="m-52" source="fbis_eng_20010903.1680" noun_type="PRO" offset="2246" length="3">ITS</entity_mention>
+      <entity_mention id="m-53" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2945" length="6">NATION</entity_mention>
+      <entity_mention id="m-54" source="fbis_eng_20010903.1680" noun_type="NAM" offset="3243" length="8">MALAYSIA</entity_mention>
+      <entity_mention id="m-55" source="fbis_eng_20010903.1680" noun_type="NAM" offset="3765" length="8">MALAYSIA</entity_mention>
+      <entity_mention id="m-56" source="fbis_eng_20010903.1680" noun_type="NAM" offset="4365" length="8">MALAYSIA</entity_mention>
+      <entity_mention id="m-57" source="fbis_eng_20010903.1680" noun_type="NOM" offset="4064" length="7">COUNTRY</entity_mention>
+    </entity>
+    <entity id="ent-19" name="entity-GPE-3" type="GPE">
+      <entity_mention id="m-58" source="fbis_eng_20010903.1680" noun_type="NAM" offset="1268" length="12">KUALA LUMPUR</entity_mention>
+    </entity>
+    <entity id="ent-20" name="entity-GPE-4" type="GPE">
+      <entity_mention id="m-59" source="fbis_eng_20010903.1680" noun_type="NAM" offset="3739" length="2">US</entity_mention>
+    </entity>
+    <entity id="ent-21" name="entity-LOC-2" type="LOC">
+      <entity_mention id="m-60" source="fbis_eng_20010903.1680" noun_type="NAM" offset="956" length="5">ASIAN</entity_mention>
+    </entity>
+    <entity id="ent-22" name="entity-TITLE-2" type="TITLE">
+      <entity_mention id="m-61" source="fbis_eng_20010903.1680" noun_type="" offset="701" length="14">PRIME MINISTER</entity_mention>
+    </entity>
+    <entity id="ent-23" name="entity-TITLE-3" type="TITLE">
+      <entity_mention id="m-62" source="fbis_eng_20010903.1680" noun_type="" offset="716" length="2">DR</entity_mention>
+    </entity>
+    <entity id="ent-24" name="entity-TITLE-4" type="TITLE">
+      <entity_mention id="m-63" source="fbis_eng_20010903.1680" noun_type="" offset="929" length="16">FINANCE MINISTER</entity_mention>
+    </entity>
+    <entity id="ent-25" name="entity-TITLE-5" type="TITLE">
+      <entity_mention id="m-64" source="fbis_eng_20010903.1680" noun_type="NOM" offset="2005" length="9">FINANCIER</entity_mention>
+    </entity>
+  </entities>
+  <relations>
+    <relation id="r-1" type="social" subtype="role">
+      <arg number="1" entity_id="ent-22" entity_mention_id="m-61"/>
+      <arg number="2" entity_id="ent-1" entity_mention_id="m-1"/>
+    </relation>
+    <relation id="r-2" type="social" subtype="role">
+      <arg number="1" entity_id="ent-23" entity_mention_id="m-62"/>
+      <arg number="2" entity_id="ent-1" entity_mention_id="m-1"/>
+    </relation>
+    <relation id="r-3" type="social" subtype="role">
+      <arg number="1" entity_id="ent-24" entity_mention_id="m-63"/>
+      <arg number="2" entity_id="ent-1" entity_mention_id="m-2"/>
+    </relation>
+    <relation id="r-4" type="physical" subtype="located">
+      <arg number="1" entity_id="ent-1" entity_mention_id="m-5"/>
+      <arg number="2" entity_id="ent-19" entity_mention_id="m-58"/>
+      <trigger source="fbis_eng_20010903.1680" offset="1264" length="2">IN</trigger>
+    </relation>
+    <relation id="r-5" type="social" subtype="role">
+      <arg number="1" entity_id="ent-25" entity_mention_id="m-64"/>
+      <arg number="2" entity_id="ent-3" entity_mention_id="m-18"/>
+    </relation>
+  </relations>
+  <events/>
+</deft_ere>
