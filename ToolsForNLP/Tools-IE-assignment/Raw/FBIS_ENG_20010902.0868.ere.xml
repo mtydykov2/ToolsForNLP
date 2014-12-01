@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere docid="fbis_eng_20010902.0868" source_type="narrative" kit_id="509a7305dba4a93c6d000029">
+  <entities>
+    <entity id="ent-1" name="entity-PER-2" type="PER">
+      <entity_mention id="m-1" source="fbis_eng_20010902.0868" noun_type="NAM" offset="580" length="7">MUBARAK</entity_mention>
+      <entity_mention id="m-2" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1709" length="22">MUHAMMAD HUSNI MUBARAK</entity_mention>
+      <entity_mention id="m-3" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1690" length="7">BROTHER</entity_mention>
+      <entity_mention id="m-4" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1751" length="6">LATTER</entity_mention>
+    </entity>
+    <entity id="ent-2" name="entity-PER-3" type="PER">
+      <entity_mention id="m-5" source="fbis_eng_20010902.0868" noun_type="NOM" offset="816" length="7">LEADERS</entity_mention>
+    </entity>
+    <entity id="ent-3" name="entity-PER-4" type="PER">
+      <entity_mention id="m-6" source="fbis_eng_20010902.0868" noun_type="NAM" offset="968" length="15">TAYSIR
+"KHATTAB</entity_mention>
+      <entity_mention id="m-7" source="fbis_eng_20010902.0868" noun_type="NOM" offset="992" length="9">ASSISTANT</entity_mention>
+    </entity>
+    <entity id="ent-4" name="entity-PER-6" type="PER">
+      <entity_mention id="m-8" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1019" length="13">AMIN AL-HINDI</entity_mention>
+      <entity_mention id="m-9" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1038" length="8">DIRECTOR</entity_mention>
+    </entity>
+    <entity id="ent-5" name="entity-PER-7" type="PER">
+      <entity_mention id="m-10" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1268" length="10">FIRST LADY</entity_mention>
+      <entity_mention id="m-11" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1284" length="15">SUZANNE MUBARAK</entity_mention>
+    </entity>
+    <entity id="ent-6" name="entity-PER-1" type="PER">
+      <entity_mention id="m-12" source="fbis_eng_20010902.0868" noun_type="NAM" offset="619" length="8">ABDALLAH</entity_mention>
+    </entity>
+    <entity id="ent-7" name="entity-PER-8" type="PER">
+      <entity_mention id="m-13" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1155" length="7">FIGURES</entity_mention>
+    </entity>
+    <entity id="ent-8" name="entity-PER-9" type="PER">
+      <entity_mention id="m-14" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1242" length="7">MARTYRS</entity_mention>
+    </entity>
+    <entity id="ent-9" name="entity-PER-10" type="PER">
+      <entity_mention id="m-15" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1587" length="6">PUBLIC</entity_mention>
+    </entity>
+    <entity id="ent-10" name="entity-PER-11" type="PER">
+      <entity_mention id="m-16" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1640" length="6">LEADER</entity_mention>
+      <entity_mention id="m-17" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1647" length="19">MU'AMMAR AL-QADHAFI</entity_mention>
+      <entity_mention id="m-18" source="fbis_eng_20010902.0868" noun_type="PRO" offset="1685" length="3">HIS</entity_mention>
+    </entity>
+    <entity id="ent-11" name="entity-PER-12" type="PER">
+      <entity_mention id="m-19" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1870" length="20">INFORMATION MINISTER</entity_mention>
+    </entity>
+    <entity id="ent-12" name="entity-ORG-2" type="ORG">
+      <entity_mention id="m-20" source="fbis_eng_20010902.0868" noun_type="NAM" offset="552" length="8">AL-AHRAM</entity_mention>
+    </entity>
+    <entity id="ent-13" name="entity-ORG-3" type="ORG">
+      <entity_mention id="m-21" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1070" length="27">GENERAL INTELLIGENCE AGENCY</entity_mention>
+    </entity>
+    <entity id="ent-14" name="entity-ORG-4" type="ORG">
+      <entity_mention id="m-22" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1614" length="9">AL-AKHBAR</entity_mention>
+    </entity>
+    <entity id="ent-15" name="entity-ORG-5" type="ORG">
+      <entity_mention id="m-23" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1531" length="7">LIBRARY</entity_mention>
+    </entity>
+    <entity id="ent-16" name="entity-ORG-6" type="ORG">
+      <entity_mention id="m-24" source="fbis_eng_20010902.0868" noun_type="NOM" offset="928" length="17">OCCUPATION FORCES</entity_mention>
+      <entity_mention id="m-25" source="fbis_eng_20010902.0868" noun_type="PRO" offset="1462" length="4">THEY</entity_mention>
+      <entity_mention id="m-26" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1436" length="7">LIBRARY</entity_mention>
+      <entity_mention id="m-27" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1354" length="18">ALEXANDRIA LIBRARY</entity_mention>
+    </entity>
+    <entity id="ent-17" name="entity-ORG-7" type="ORG">
+      <entity_mention id="m-28" source="fbis_eng_20010902.0868" noun_type="NOM" offset="1338" length="8">TRUSTEES</entity_mention>
+    </entity>
+    <entity id="ent-18" name="entity-GPE-2" type="GPE">
+      <entity_mention id="m-29" source="fbis_eng_20010902.0868" noun_type="NAM" offset="702" length="11">PALESTINIAN</entity_mention>
+      <entity_mention id="m-30" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1056" length="11">PALESTINIAN</entity_mention>
+      <entity_mention id="m-31" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1143" length="11">PALESTINIAN</entity_mention>
+    </entity>
+    <entity id="ent-19" name="entity-GPE-3" type="GPE">
+      <entity_mention id="m-32" source="fbis_eng_20010902.0868" noun_type="NAM" offset="920" length="7">ISRAELI</entity_mention>
+      <entity_mention id="m-33" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1179" length="6">ISRAEL</entity_mention>
+    </entity>
+    <entity id="ent-20" name="entity-GPE-4" type="GPE">
+      <entity_mention id="m-34" source="fbis_eng_20010902.0868" noun_type="NOM" offset="904" length="6">REGION</entity_mention>
+      <entity_mention id="m-35" source="fbis_eng_20010902.0868" noun_type="NOM" offset="795" length="11">MIDDLE
+EAST</entity_mention>
+    </entity>
+    <entity id="ent-21" name="entity-GPE-5" type="GPE">
+      <entity_mention id="m-36" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1260" length="5">EGYPT</entity_mention>
+      <entity_mention id="m-37" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1329" length="8">EGYPTIAN</entity_mention>
+    </entity>
+    <entity id="ent-22" name="entity-GPE-6" type="GPE">
+      <entity_mention id="m-38" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1633" length="6">LIBYAN</entity_mention>
+    </entity>
+    <entity id="ent-23" name="entity-GPE-7" type="GPE">
+      <entity_mention id="m-39" source="fbis_eng_20010902.0868" noun_type="NAM" offset="632" length="10">ALEXANDRIA</entity_mention>
+    </entity>
+    <entity id="ent-24" name="entity-GPE-8" type="GPE">
+      <entity_mention id="m-40" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1102" length="4">GAZA</entity_mention>
+      <entity_mention id="m-41" source="fbis_eng_20010902.0868" noun_type="NAM" offset="1859" length="8">EGYPTIAN</entity_mention>
+    </entity>
+    <entity id="ent-25" name="entity-LOC-2" type="LOC">
+      <entity_mention id="m-42" source="fbis_eng_20010902.0868" noun_type="NOM" offset="714" length="5">AREAS</entity_mention>
+    </entity>
+    <entity id="ent-26" name="entity-TITLE-2" type="TITLE">
+      <entity_mention id="m-43" source="fbis_eng_20010902.0868" noun_type="" offset="570" length="9">PRESIDENT</entity_mention>
+    </entity>
+    <entity id="ent-27" name="entity-TITLE-3" type="TITLE">
+      <entity_mention id="m-44" source="fbis_eng_20010902.0868" noun_type="" offset="614" length="4">KING</entity_mention>
+    </entity>
+    <entity id="ent-28" name="entity-TITLE-4" type="TITLE">
+      <entity_mention id="m-45" source="fbis_eng_20010902.0868" noun_type="" offset="959" length="7">COLONEL</entity_mention>
+    </entity>
+    <entity id="ent-29" name="entity-TITLE-5" type="TITLE">
+      <entity_mention id="m-46" source="fbis_eng_20010902.0868" noun_type="" offset="1005" length="13">MAJOR GENERAL</entity_mention>
+    </entity>
+    <entity id="ent-30" name="entity-TITLE-6" type="TITLE">
+      <entity_mention id="m-47" source="fbis_eng_20010902.0868" noun_type="" offset="1280" length="3">MRS</entity_mention>
+    </entity>
+    <entity id="ent-31" name="entity-TITLE-7" type="TITLE">
+      <entity_mention id="m-48" source="fbis_eng_20010902.0868" noun_type="" offset="1698" length="9">PRESIDENT</entity_mention>
+    </entity>
+  </entities>
+  <relations/>
+  <events/>
+</deft_ere>
