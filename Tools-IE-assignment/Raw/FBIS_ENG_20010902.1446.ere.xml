@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere docid="fbis_eng_20010902.1446" source_type="narrative" kit_id="50b6691cdba4a91f7c000005">
+  <entities>
+    <entity id="ent-1" name="entity-PER-2" type="PER">
+      <entity_mention id="m-1" source="fbis_eng_20010902.1446" noun_type="NOM" offset="707" length="7">VICTIMS</entity_mention>
+      <entity_mention id="m-2" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1253" length="7">VICTIMS</entity_mention>
+    </entity>
+    <entity id="ent-2" name="entity-PER-3" type="PER">
+      <entity_mention id="m-3" source="fbis_eng_20010902.1446" noun_type="NOM" offset="920" length="4">HEAD</entity_mention>
+      <entity_mention id="m-4" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1931" length="4">HEAD</entity_mention>
+      <entity_mention id="m-5" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2947" length="4">HEAD</entity_mention>
+      <entity_mention id="m-6" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3522" length="4">HEAD</entity_mention>
+      <entity_mention id="m-7" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3736" length="4">HEAD</entity_mention>
+      <entity_mention id="m-8" source="fbis_eng_20010902.1446" noun_type="NOM" offset="974" length="9">PRESIDENT</entity_mention>
+      <entity_mention id="m-9" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1051" length="4">HEAD</entity_mention>
+      <entity_mention id="m-10" source="fbis_eng_20010902.1446" noun_type="NAM" offset="2261" length="15">LAURENT"
+GBAGBO</entity_mention>
+      <entity_mention id="m-11" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2287" length="3">HIS</entity_mention>
+      <entity_mention id="m-12" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2367" length="2">HE</entity_mention>
+      <entity_mention id="m-13" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2439" length="3">HIM</entity_mention>
+      <entity_mention id="m-14" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2521" length="4">HEAD</entity_mention>
+      <entity_mention id="m-15" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2665" length="2">HE</entity_mention>
+      <entity_mention id="m-16" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2676" length="2">HE</entity_mention>
+      <entity_mention id="m-17" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2823" length="4">HEAD</entity_mention>
+      <entity_mention id="m-18" source="fbis_eng_20010902.1446" noun_type="NAM" offset="4273" length="6">GBAGBO</entity_mention>
+      <entity_mention id="m-19" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3150" length="3">HIM</entity_mention>
+      <entity_mention id="m-20" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3262" length="2">HE</entity_mention>
+      <entity_mention id="m-21" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3619" length="1">I</entity_mention>
+      <entity_mention id="m-22" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3669" length="1">I</entity_mention>
+      <entity_mention id="m-23" source="fbis_eng_20010902.1446" noun_type="NOM" offset="4781" length="4">HEAD</entity_mention>
+      <entity_mention id="m-24" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3863" length="2">HE</entity_mention>
+      <entity_mention id="m-25" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3955" length="4">HEAD</entity_mention>
+      <entity_mention id="m-26" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3984" length="3">HIS</entity_mention>
+      <entity_mention id="m-27" source="fbis_eng_20010902.1446" noun_type="NOM" offset="4004" length="7">CITIZEN</entity_mention>
+      <entity_mention id="m-28" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4018" length="1">I</entity_mention>
+      <entity_mention id="m-29" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4506" length="3">HIS</entity_mention>
+      <entity_mention id="m-30" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4902" length="2">HE</entity_mention>
+      <entity_mention id="m-31" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4912" length="2">HE</entity_mention>
+    </entity>
+    <entity id="ent-3" name="entity-PER-4" type="PER">
+      <entity_mention id="m-32" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1351" length="3">203</entity_mention>
+    </entity>
+    <entity id="ent-4" name="entity-PER-5" type="PER">
+      <entity_mention id="m-33" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1361" length="5">1,207</entity_mention>
+    </entity>
+    <entity id="ent-5" name="entity-PER-6" type="PER">
+      <entity_mention id="m-34" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1376" length="2">65</entity_mention>
+      <entity_mention id="m-35" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1694" length="2">65</entity_mention>
+    </entity>
+    <entity id="ent-6" name="entity-PER-7" type="PER">
+      <entity_mention id="m-36" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1460" length="2">85</entity_mention>
+    </entity>
+    <entity id="ent-7" name="entity-PER-8" type="PER">
+      <entity_mention id="m-37" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1469" length="3">330</entity_mention>
+    </entity>
+    <entity id="ent-8" name="entity-PER-11" type="PER">
+      <entity_mention id="m-38" source="fbis_eng_20010902.1446" noun_type="NAM" offset="1761" length="17">CLOTILDE OHOUOCHI</entity_mention>
+    </entity>
+    <entity id="ent-9" name="entity-PER-12" type="PER">
+      <entity_mention id="m-39" source="fbis_eng_20010902.1446" noun_type="NAM" offset="2017" length="8">ZEZE
+BAH</entity_mention>
+      <entity_mention id="m-40" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2026" length="3">WHO</entity_mention>
+    </entity>
+    <entity id="ent-10" name="entity-PER-13" type="PER">
+      <entity_mention id="m-41" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2119" length="5">HEADS</entity_mention>
+    </entity>
+    <entity id="ent-11" name="entity-PER-14" type="PER">
+      <entity_mention id="m-42" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2158" length="7">MEMBERS</entity_mention>
+    </entity>
+    <entity id="ent-12" name="entity-PER-15" type="PER">
+      <entity_mention id="m-43" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2181" length="15">REPRESENTATIVES</entity_mention>
+    </entity>
+    <entity id="ent-13" name="entity-PER-16" type="PER">
+      <entity_mention id="m-44" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2850" length="11">ONE ANOTHER</entity_mention>
+    </entity>
+    <entity id="ent-14" name="entity-PER-17" type="PER">
+      <entity_mention id="m-45" source="fbis_eng_20010902.1446" noun_type="NAM" offset="2965" length="13">SEYDOU DIARRA</entity_mention>
+      <entity_mention id="m-46" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3056" length="2">HE</entity_mention>
+      <entity_mention id="m-47" source="fbis_eng_20010902.1446" noun_type="NOM" offset="4929" length="8">CHAIRMAN</entity_mention>
+      <entity_mention id="m-48" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4993" length="2">HE</entity_mention>
+      <entity_mention id="m-49" source="fbis_eng_20010902.1446" noun_type="PRO" offset="5041" length="3">HIS</entity_mention>
+    </entity>
+    <entity id="ent-15" name="entity-PER-18" type="PER">
+      <entity_mention id="m-50" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3126" length="5">THOSE</entity_mention>
+      <entity_mention id="m-51" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3132" length="3">WHO</entity_mention>
+    </entity>
+    <entity id="ent-16" name="entity-PER-19" type="PER">
+      <entity_mention id="m-52" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3181" length="2">WE</entity_mention>
+      <entity_mention id="m-53" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3213" length="2">WE</entity_mention>
+      <entity_mention id="m-54" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3255" length="2">US</entity_mention>
+      <entity_mention id="m-55" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3358" length="2">WE</entity_mention>
+      <entity_mention id="m-56" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3297" length="2">WE</entity_mention>
+      <entity_mention id="m-57" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3347" length="2">US</entity_mention>
+      <entity_mention id="m-58" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3488" length="2">US</entity_mention>
+      <entity_mention id="m-59" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3549" length="2">US</entity_mention>
+      <entity_mention id="m-60" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3575" length="2">WE</entity_mention>
+      <entity_mention id="m-61" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3665" length="2">US</entity_mention>
+      <entity_mention id="m-62" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3815" length="4">THEY</entity_mention>
+      <entity_mention id="m-63" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3825" length="5">THEIR</entity_mention>
+      <entity_mention id="m-64" source="fbis_eng_20010902.1446" noun_type="NAM" offset="3751" length="8">IVORIANS</entity_mention>
+      <entity_mention id="m-65" source="fbis_eng_20010902.1446" noun_type="NAM" offset="2727" length="8">IVORIANS</entity_mention>
+      <entity_mention id="m-66" source="fbis_eng_20010902.1446" noun_type="NAM" offset="2378" length="8">IVORIANS</entity_mention>
+      <entity_mention id="m-67" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2783" length="11">ONE ANOTHER</entity_mention>
+      <entity_mention id="m-68" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2492" length="2">US</entity_mention>
+      <entity_mention id="m-69" source="fbis_eng_20010902.1446" noun_type="PRO" offset="2553" length="3">OUR</entity_mention>
+      <entity_mention id="m-70" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4367" length="2">WE</entity_mention>
+      <entity_mention id="m-71" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4382" length="9">OURSELVES</entity_mention>
+      <entity_mention id="m-72" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4286" length="2">WE</entity_mention>
+      <entity_mention id="m-73" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4539" length="2">WE</entity_mention>
+      <entity_mention id="m-74" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3877" length="2">WE</entity_mention>
+    </entity>
+    <entity id="ent-17" name="entity-PER-20" type="PER">
+      <entity_mention id="m-75" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4077" length="11">ONE ANOTHER</entity_mention>
+    </entity>
+    <entity id="ent-18" name="entity-PER-21" type="PER">
+      <entity_mention id="m-76" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4710" length="5">THOSE</entity_mention>
+      <entity_mention id="m-77" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4716" length="3">WHO</entity_mention>
+    </entity>
+    <entity id="ent-19" name="entity-PER-23" type="PER">
+      <entity_mention id="m-78" source="fbis_eng_20010902.1446" noun_type="NOM" offset="4592" length="8">SOMEBODY</entity_mention>
+    </entity>
+    <entity id="ent-20" name="entity-PER-1" type="PER">
+      <entity_mention id="m-79" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4448" length="3">ALL</entity_mention>
+    </entity>
+    <entity id="ent-21" name="entity-PER-10" type="PER">
+      <entity_mention id="m-80" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1706" length="5">1,546</entity_mention>
+    </entity>
+    <entity id="ent-22" name="entity-PER-9" type="PER">
+      <entity_mention id="m-81" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1542" length="7">WOUNDED</entity_mention>
+    </entity>
+    <entity id="ent-23" name="entity-ORG-2" type="ORG">
+      <entity_mention id="m-82" source="fbis_eng_20010902.1446" noun_type="NOM" offset="678" length="21">MONITORING
+"COMMITTEE</entity_mention>
+      <entity_mention id="m-83" source="fbis_eng_20010902.1446" noun_type="PRO" offset="898" length="3">ITS</entity_mention>
+      <entity_mention id="m-84" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1225" length="20">MONITORING COMMITTEE</entity_mention>
+      <entity_mention id="m-85" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1873" length="22">MONITORING"
+"COMMITTEE</entity_mention>
+      <entity_mention id="m-86" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2713" length="5">FORUM</entity_mention>
+      <entity_mention id="m-87" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2995" length="5">FORUM</entity_mention>
+      <entity_mention id="m-88" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3099" length="5">FORUM</entity_mention>
+      <entity_mention id="m-89" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3204" length="5">FORUM</entity_mention>
+      <entity_mention id="m-90" source="fbis_eng_20010902.1446" noun_type="PRO" offset="3233" length="2">IT</entity_mention>
+      <entity_mention id="m-91" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3324" length="5">FORUM</entity_mention>
+    </entity>
+    <entity id="ent-24" name="entity-ORG-3" type="ORG">
+      <entity_mention id="m-92" source="fbis_eng_20010902.1446" noun_type="NOM" offset="5301" length="6">OWNERS</entity_mention>
+    </entity>
+    <entity id="ent-25" name="entity-ORG-4" type="ORG">
+      <entity_mention id="m-93" source="fbis_eng_20010902.1446" noun_type="NOM" offset="4662" length="9">JUDICIARY</entity_mention>
+    </entity>
+    <entity id="ent-26" name="entity-ORG-5" type="ORG">
+      <entity_mention id="m-94" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2129" length="22">NATIONAL
+"INSTITUTIONS</entity_mention>
+    </entity>
+    <entity id="ent-27" name="entity-ORG-6" type="ORG">
+      <entity_mention id="m-95" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2169" length="10">GOVERNMENT</entity_mention>
+    </entity>
+    <entity id="ent-28" name="entity-ORG-7" type="ORG">
+      <entity_mention id="m-96" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2235" length="13">DENOMINATIONS</entity_mention>
+    </entity>
+    <entity id="ent-29" name="entity-ORG-8" type="ORG">
+      <entity_mention id="m-97" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2213" length="7">PARTIES</entity_mention>
+    </entity>
+    <entity id="ent-30" name="entity-GPE-2" type="GPE">
+      <entity_mention id="m-98" source="fbis_eng_20010902.1446" noun_type="NAM" offset="1106" length="13">COTE D'IVOIRE</entity_mention>
+      <entity_mention id="m-99" source="fbis_eng_20010902.1446" noun_type="NOM" offset="4803" length="7">COUNTRY</entity_mention>
+      <entity_mention id="m-100" source="fbis_eng_20010902.1446" noun_type="PRO" offset="4863" length="2">IT</entity_mention>
+      <entity_mention id="m-101" source="fbis_eng_20010902.1446" noun_type="NOM" offset="928" length="5">STATE</entity_mention>
+      <entity_mention id="m-102" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2529" length="5">STATE</entity_mention>
+      <entity_mention id="m-103" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1939" length="5">STATE</entity_mention>
+      <entity_mention id="m-104" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2831" length="5">STATE</entity_mention>
+      <entity_mention id="m-105" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1059" length="5">STATE</entity_mention>
+      <entity_mention id="m-106" source="fbis_eng_20010902.1446" noun_type="NOM" offset="2955" length="5">STATE</entity_mention>
+      <entity_mention id="m-107" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3530" length="5">STATE</entity_mention>
+      <entity_mention id="m-108" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3744" length="5">STATE</entity_mention>
+      <entity_mention id="m-109" source="fbis_eng_20010902.1446" noun_type="NOM" offset="3963" length="5">STATE</entity_mention>
+      <entity_mention id="m-110" source="fbis_eng_20010902.1446" noun_type="NOM" offset="4789" length="5">STATE</entity_mention>
+    </entity>
+    <entity id="ent-31" name="entity-GPE-3" type="GPE">
+      <entity_mention id="m-111" source="fbis_eng_20010902.1446" noun_type="NOM" offset="4036" length="7">COUNTRY</entity_mention>
+    </entity>
+    <entity id="ent-32" name="entity-LOC-2" type="LOC">
+      <entity_mention id="m-112" source="fbis_eng_20010902.1446" noun_type="NOM" offset="960" length="6">OFFICE</entity_mention>
+      <entity_mention id="m-113" source="fbis_eng_20010902.1446" noun_type="NOM" offset="1017" length="5">VENUE</entity_mention>
+    </entity>
+    <entity id="ent-33" name="entity-TITLE-2" type="TITLE">
+      <entity_mention id="m-114" source="fbis_eng_20010902.1446" noun_type="" offset="1757" length="3">MRS</entity_mention>
+    </entity>
+    <entity id="ent-34" name="entity-TITLE-3" type="TITLE">
+      <entity_mention id="m-115" source="fbis_eng_20010902.1446" noun_type="" offset="1781" length="52">MINISTER OF SOCIAL WELFARE AND NATIONAL"
+"SOLIDARITY</entity_mention>
+    </entity>
+    <entity id="ent-35" name="entity-TITLE-4" type="TITLE">
+      <entity_mention id="m-116" source="fbis_eng_20010902.1446" noun_type="" offset="2011" length="4">PROF</entity_mention>
+    </entity>
+    <entity id="ent-36" name="entity-TITLE-5" type="TITLE">
+      <entity_mention id="m-117" source="fbis_eng_20010902.1446" noun_type="" offset="2250" length="9">PRESIDENT</entity_mention>
+      <entity_mention id="m-118" source="fbis_eng_20010902.1446" noun_type="" offset="4260" length="9">PRESIDENT</entity_mention>
+    </entity>
+    <entity id="ent-37" name="entity-TITLE-6" type="TITLE">
+      <entity_mention id="m-119" source="fbis_eng_20010902.1446" noun_type="" offset="3687" length="10">POLITICIAN</entity_mention>
+    </entity>
+    <entity id="ent-38" name="entity-TITLE-7" type="TITLE">
+      <entity_mention id="m-120" source="fbis_eng_20010902.1446" noun_type="" offset="3701" length="8">DICTATOR</entity_mention>
+    </entity>
+    <entity id="ent-39" name="entity-TITLE-8" type="TITLE">
+      <entity_mention id="m-121" source="fbis_eng_20010902.1446" noun_type="" offset="2962" length="2">MR</entity_mention>
+    </entity>
+    <entity id="ent-40" name="entity-TITLE-9" type="TITLE">
+      <entity_mention id="m-122" source="fbis_eng_20010902.1446" noun_type="" offset="1835" length="11">CHAIRPERSON</entity_mention>
+    </entity>
+    <entity id="ent-41" name="entity-TITLE-10" type="TITLE">
+      <entity_mention id="m-123" source="fbis_eng_20010902.1446" noun_type="" offset="2980" length="8">CHAIRMAN</entity_mention>
+    </entity>
+  </entities>
+  <relations>
+    <relation id="r-1" type="affiliation" subtype="leadership">
+      <arg number="1" entity_id="ent-8" entity_mention_id="m-38"/>
+      <arg number="2" entity_id="ent-23" entity_mention_id="m-85"/>
+      <trigger source="fbis_eng_20010902.1446" offset="1835" length="11">CHAIRPERSON</trigger>
+    </relation>
+    <relation id="r-2" type="social" subtype="role">
+      <arg number="1" entity_id="ent-33" entity_mention_id="m-114"/>
+      <arg number="2" entity_id="ent-8" entity_mention_id="m-38"/>
+    </relation>
+    <relation id="r-3" type="social" subtype="role">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-115"/>
+      <arg number="2" entity_id="ent-8" entity_mention_id="m-38"/>
+    </relation>
+    <relation id="r-4" type="social" subtype="role">
+      <arg number="1" entity_id="ent-40" entity_mention_id="m-122"/>
+      <arg number="2" entity_id="ent-8" entity_mention_id="m-38"/>
+    </relation>
+    <relation id="r-5" type="social" subtype="role">
+      <arg number="1" entity_id="ent-35" entity_mention_id="m-116"/>
+      <arg number="2" entity_id="ent-9" entity_mention_id="m-39"/>
+    </relation>
+    <relation id="r-6" type="affiliation" subtype="leadership">
+      <arg number="1" entity_id="ent-10" entity_mention_id="m-41"/>
+      <arg number="2" entity_id="ent-26" entity_mention_id="m-94"/>
+      <trigger source="fbis_eng_20010902.1446" offset="2119" length="5">HEADS</trigger>
+    </relation>
+    <relation id="r-7" type="affiliation" subtype="employmentmembership">
+      <arg number="1" entity_id="ent-11" entity_mention_id="m-42"/>
+      <arg number="2" entity_id="ent-27" entity_mention_id="m-95"/>
+      <trigger source="fbis_eng_20010902.1446" offset="2158" length="7">MEMBERS</trigger>
+    </relation>
+    <relation id="r-8" type="affiliation" subtype="employmentmembership">
+      <arg number="1" entity_id="ent-12" entity_mention_id="m-43"/>
+      <arg number="2" entity_id="ent-29" entity_mention_id="m-97"/>
+    </relation>
+    <relation id="r-9" type="affiliation" subtype="employmentmembership">
+      <arg number="1" entity_id="ent-12" entity_mention_id="m-43"/>
+      <arg number="2" entity_id="ent-28" entity_mention_id="m-96"/>
+    </relation>
+    <relation id="r-10" type="social" subtype="role">
+      <arg number="1" entity_id="ent-36" entity_mention_id="m-117"/>
+      <arg number="2" entity_id="ent-2" entity_mention_id="m-10"/>
+    </relation>
+    <relation id="r-11" type="social" subtype="role">
+      <arg number="1" entity_id="ent-39" entity_mention_id="m-121"/>
+      <arg number="2" entity_id="ent-14" entity_mention_id="m-45"/>
+    </relation>
+    <relation id="r-12" type="social" subtype="role">
+      <arg number="1" entity_id="ent-41" entity_mention_id="m-123"/>
+      <arg number="2" entity_id="ent-14" entity_mention_id="m-45"/>
+    </relation>
+    <relation id="r-13" type="affiliation" subtype="leadership">
+      <arg number="1" entity_id="ent-14" entity_mention_id="m-45"/>
+      <arg number="2" entity_id="ent-23" entity_mention_id="m-87"/>
+      <trigger source="fbis_eng_20010902.1446" offset="2980" length="8">CHAIRMAN</trigger>
+    </relation>
+    <relation id="r-14" type="social" subtype="role">
+      <arg number="1" entity_id="ent-36" entity_mention_id="m-118"/>
+      <arg number="2" entity_id="ent-2" entity_mention_id="m-18"/>
+    </relation>
+  </relations>
+  <events>
+    <event id="e-1" type="life" subtype="die">
+      <arg number="1" entity_id="ent-6" entity_mention_id="m-36"/>
+      <trigger source="fbis_eng_20010902.1446" offset="1463" length="4">DEAD</trigger>
+    </event>
+    <event id="e-2" type="life" subtype="injure">
+      <arg number="1" entity_id="ent-7" entity_mention_id="m-37"/>
+      <trigger source="fbis_eng_20010902.1446" offset="1476" length="7">WOUNDED</trigger>
+    </event>
+    <event id="e-3" type="life" subtype="injure">
+      <arg number="1" entity_id="ent-21" entity_mention_id="m-80"/>
+      <trigger source="fbis_eng_20010902.1446" offset="1712" length="7">WOUNDED</trigger>
+    </event>
+    <event id="e-4" type="contact" subtype="meet">
+      <arg number="1" entity_id="ent-12" entity_mention_id="m-43"/>
+      <arg number="2" entity_id="ent-2" entity_mention_id="m-10"/>
+      <arg number="3" entity_id="ent-10" entity_mention_id="m-41"/>
+      <arg number="4" entity_id="ent-11" entity_mention_id="m-42"/>
+      <trigger source="fbis_eng_20010902.1446" offset="2107" length="8">PRESENCE</trigger>
+    </event>
+    <event id="e-5" type="life" subtype="die">
+      <arg number="1" entity_id="ent-3" entity_mention_id="m-32"/>
+      <trigger source="fbis_eng_20010902.1446" offset="1355" length="4">DEAD</trigger>
+    </event>
+    <event id="e-6" type="life" subtype="injure">
+      <arg number="1" entity_id="ent-4" entity_mention_id="m-33"/>
+      <trigger source="fbis_eng_20010902.1446" offset="1367" length="7">WOUNDED</trigger>
+    </event>
+  </events>
+</deft_ere>

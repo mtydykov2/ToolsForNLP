@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deft_ere docid="fbis_eng_20010903.1611" source_type="narrative" kit_id="50b6691cdba4a91f7c000009">
+  <entities>
+    <entity id="ent-1" name="entity-PER-2" type="PER">
+      <entity_mention id="m-1" source="fbis_eng_20010903.1611" noun_type="PRO" offset="1100" length="2">WE</entity_mention>
+      <entity_mention id="m-2" source="fbis_eng_20010903.1611" noun_type="PRO" offset="1480" length="2">WE</entity_mention>
+    </entity>
+    <entity id="ent-2" name="entity-PER-3" type="PER">
+      <entity_mention id="m-3" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2009" length="6">PEOPLE</entity_mention>
+    </entity>
+    <entity id="ent-3" name="entity-PER-4" type="PER">
+      <entity_mention id="m-4" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2101" length="3">MAN</entity_mention>
+      <entity_mention id="m-5" source="fbis_eng_20010903.1611" noun_type="NAM" offset="2105" length="6">WEI PO</entity_mention>
+    </entity>
+    <entity id="ent-4" name="entity-PER-5" type="PER">
+      <entity_mention id="m-6" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2537" length="6">TROOPS</entity_mention>
+    </entity>
+    <entity id="ent-5" name="entity-PER-6" type="PER">
+      <entity_mention id="m-7" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5672" length="6">PEOPLE</entity_mention>
+    </entity>
+    <entity id="ent-6" name="entity-PER-7" type="PER">
+      <entity_mention id="m-8" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5989" length="7">EXPERTS</entity_mention>
+    </entity>
+    <entity id="ent-7" name="entity-PER-8" type="PER">
+      <entity_mention id="m-9" source="fbis_eng_20010903.1611" noun_type="PRO" offset="6074" length="11">ONE ANOTHER</entity_mention>
+      <entity_mention id="m-10" source="fbis_eng_20010903.1611" noun_type="PRO" offset="6212" length="4">THEY</entity_mention>
+    </entity>
+    <entity id="ent-8" name="entity-PER-9" type="PER">
+      <entity_mention id="m-11" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5932" length="8">ANALYSTS</entity_mention>
+    </entity>
+    <entity id="ent-9" name="entity-PER-10" type="PER">
+      <entity_mention id="m-12" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6346" length="12">NIE RONGZHEN</entity_mention>
+      <entity_mention id="m-13" source="fbis_eng_20010903.1611" noun_type="PRO" offset="6360" length="3">WHO</entity_mention>
+      <entity_mention id="m-14" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6630" length="3">NIE</entity_mention>
+    </entity>
+    <entity id="ent-10" name="entity-PER-11" type="PER">
+      <entity_mention id="m-15" source="fbis_eng_20010903.1611" noun_type="NOM" offset="8313" length="6">PUBLIC</entity_mention>
+    </entity>
+    <entity id="ent-11" name="entity-PER-12" type="PER">
+      <entity_mention id="m-16" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8279" length="9">WU SHIWEN</entity_mention>
+    </entity>
+    <entity id="ent-12" name="entity-PER-13" type="PER">
+      <entity_mention id="m-17" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8587" length="13">DANG"
+YAOMING</entity_mention>
+      <entity_mention id="m-18" source="fbis_eng_20010903.1611" noun_type="PRO" offset="7904" length="2">HE</entity_mention>
+      <entity_mention id="m-19" source="fbis_eng_20010903.1611" noun_type="PRO" offset="8021" length="2">HE</entity_mention>
+      <entity_mention id="m-20" source="fbis_eng_20010903.1611" noun_type="NAM" offset="7594" length="12">DANG YAOMING</entity_mention>
+      <entity_mention id="m-21" source="fbis_eng_20010903.1611" noun_type="PRO" offset="7922" length="2">HE</entity_mention>
+      <entity_mention id="m-22" source="fbis_eng_20010903.1611" noun_type="PRO" offset="8041" length="2">HE</entity_mention>
+      <entity_mention id="m-23" source="fbis_eng_20010903.1611" noun_type="NAM" offset="11291" length="12">DANG YAOMING</entity_mention>
+    </entity>
+    <entity id="ent-13" name="entity-PER-14" type="PER">
+      <entity_mention id="m-24" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6663" length="10">SU ZHENHUA</entity_mention>
+    </entity>
+    <entity id="ent-14" name="entity-PER-15" type="PER">
+      <entity_mention id="m-25" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6695" length="11">LUO SHUNCHU</entity_mention>
+    </entity>
+    <entity id="ent-15" name="entity-PER-16" type="PER">
+      <entity_mention id="m-26" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8605" length="9">WU SHIWEN</entity_mention>
+    </entity>
+    <entity id="ent-16" name="entity-PER-17" type="PER">
+      <entity_mention id="m-27" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8634" length="15">ZHONGGUO SHIBAO</entity_mention>
+    </entity>
+    <entity id="ent-17" name="entity-PER-18" type="PER">
+      <entity_mention id="m-28" source="fbis_eng_20010903.1611" noun_type="NOM" offset="8900" length="6">PEOPLE</entity_mention>
+    </entity>
+    <entity id="ent-18" name="entity-PER-19" type="PER">
+      <entity_mention id="m-29" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9080" length="8">JING BAO</entity_mention>
+    </entity>
+    <entity id="ent-19" name="entity-PER-20" type="PER">
+      <entity_mention id="m-30" source="fbis_eng_20010903.1611" noun_type="NOM" offset="9122" length="6">SOURCE</entity_mention>
+    </entity>
+    <entity id="ent-20" name="entity-PER-21" type="PER">
+      <entity_mention id="m-31" source="fbis_eng_20010903.1611" noun_type="NOM" offset="9421" length="14">RESERVE TROOPS</entity_mention>
+    </entity>
+    <entity id="ent-21" name="entity-PER-23" type="PER">
+      <entity_mention id="m-32" source="fbis_eng_20010903.1611" noun_type="NOM" offset="9538" length="8">SOLDIERS</entity_mention>
+    </entity>
+    <entity id="ent-22" name="entity-PER-24" type="PER">
+      <entity_mention id="m-33" source="fbis_eng_20010903.1611" noun_type="NOM" offset="9284" length="6">TROOPS</entity_mention>
+      <entity_mention id="m-34" source="fbis_eng_20010903.1611" noun_type="NOM" offset="9607" length="8">SOLDIERS</entity_mention>
+    </entity>
+    <entity id="ent-23" name="entity-PER-25" type="PER">
+      <entity_mention id="m-35" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10149" length="6">PEOPLE</entity_mention>
+      <entity_mention id="m-36" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10512" length="6">PEOPLE</entity_mention>
+      <entity_mention id="m-37" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10612" length="6">PEOPLE</entity_mention>
+    </entity>
+    <entity id="ent-24" name="entity-PER-26" type="PER">
+      <entity_mention id="m-38" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10592" length="8">MAJORITY</entity_mention>
+    </entity>
+    <entity id="ent-25" name="entity-PER-27" type="PER">
+      <entity_mention id="m-39" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10984" length="9">SPOKESMAN</entity_mention>
+    </entity>
+    <entity id="ent-26" name="entity-PER-28" type="PER">
+      <entity_mention id="m-40" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11395" length="9">PERSONNEL</entity_mention>
+    </entity>
+    <entity id="ent-27" name="entity-PER-29" type="PER">
+      <entity_mention id="m-41" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11510" length="9">PERSONNEL</entity_mention>
+      <entity_mention id="m-42" source="fbis_eng_20010903.1611" noun_type="PRO" offset="11520" length="3">WHO</entity_mention>
+    </entity>
+    <entity id="ent-28" name="entity-PER-30" type="PER">
+      <entity_mention id="m-43" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11933" length="7">GENERAL</entity_mention>
+    </entity>
+    <entity id="ent-29" name="entity-PER-31" type="PER">
+      <entity_mention id="m-44" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11962" length="8">GENERALS</entity_mention>
+    </entity>
+    <entity id="ent-30" name="entity-PER-32" type="PER">
+      <entity_mention id="m-45" source="fbis_eng_20010903.1611" noun_type="PRO" offset="12015" length="4">THEM</entity_mention>
+    </entity>
+    <entity id="ent-31" name="entity-ORG-2" type="ORG">
+      <entity_mention id="m-46" source="fbis_eng_20010903.1611" noun_type="NOM" offset="919" length="8">SERVICES</entity_mention>
+      <entity_mention id="m-47" source="fbis_eng_20010903.1611" noun_type="NOM" offset="1646" length="8">SERVICES</entity_mention>
+      <entity_mention id="m-48" source="fbis_eng_20010903.1611" noun_type="NOM" offset="1949" length="8">SERVICES</entity_mention>
+    </entity>
+    <entity id="ent-32" name="entity-ORG-3" type="ORG">
+      <entity_mention id="m-49" source="fbis_eng_20010903.1611" noun_type="NAM" offset="2338" length="25">PEOPLE'S
+"LIBERATION ARMY</entity_mention>
+      <entity_mention id="m-50" source="fbis_eng_20010903.1611" noun_type="NAM" offset="7301" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-51" source="fbis_eng_20010903.1611" noun_type="NAM" offset="7439" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-52" source="fbis_eng_20010903.1611" noun_type="NAM" offset="7526" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-53" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10646" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-54" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9173" length="3">PLA</entity_mention>
+      <entity_mention id="m-55" source="fbis_eng_20010903.1611" noun_type="NAM" offset="3300" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-56" source="fbis_eng_20010903.1611" noun_type="NAM" offset="1658" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-57" source="fbis_eng_20010903.1611" noun_type="NAM" offset="931" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-58" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10282" length="3">PLA</entity_mention>
+      <entity_mention id="m-59" source="fbis_eng_20010903.1611" noun_type="NAM" offset="4686" length="3">PLA</entity_mention>
+      <entity_mention id="m-60" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5794" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-61" source="fbis_eng_20010903.1611" noun_type="NOM" offset="7737" length="16">COMMUNIST TROOPS</entity_mention>
+      <entity_mention id="m-62" source="fbis_eng_20010903.1611" noun_type="NOM" offset="8421" length="16">COMMUNIST TROOPS</entity_mention>
+      <entity_mention id="m-63" source="fbis_eng_20010903.1611" noun_type="NAM" offset="1932" length="7">THE PLA</entity_mention>
+      <entity_mention id="m-64" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10078" length="7">THE PLA</entity_mention>
+    </entity>
+    <entity id="ent-33" name="entity-ORG-4" type="ORG">
+      <entity_mention id="m-65" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2371" length="5">UNITS</entity_mention>
+    </entity>
+    <entity id="ent-34" name="entity-ORG-5" type="ORG">
+      <entity_mention id="m-66" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10399" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-67" source="fbis_eng_20010903.1611" noun_type="NOM" offset="7202" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-68" source="fbis_eng_20010903.1611" noun_type="NOM" offset="8716" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-69" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10825" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-70" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10975" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-71" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11282" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-72" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11815" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-73" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10206" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-74" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11845" length="8">MILITARY</entity_mention>
+      <entity_mention id="m-75" source="fbis_eng_20010903.1611" noun_type="NOM" offset="12111" length="12">ARMED FORCES</entity_mention>
+    </entity>
+    <entity id="ent-35" name="entity-ORG-6" type="ORG">
+      <entity_mention id="m-76" source="fbis_eng_20010903.1611" noun_type="NOM" offset="8868" length="8">REGIMENT</entity_mention>
+    </entity>
+    <entity id="ent-36" name="entity-ORG-7" type="ORG">
+      <entity_mention id="m-77" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2427" length="8">SERVICES</entity_mention>
+    </entity>
+    <entity id="ent-37" name="entity-ORG-8" type="ORG">
+      <entity_mention id="m-78" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2443" length="4">NAVY</entity_mention>
+      <entity_mention id="m-79" source="fbis_eng_20010903.1611" noun_type="NOM" offset="4692" length="4">NAVY</entity_mention>
+    </entity>
+    <entity id="ent-38" name="entity-ORG-9" type="ORG">
+      <entity_mention id="m-80" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2453" length="9">AIR FORCE</entity_mention>
+    </entity>
+    <entity id="ent-39" name="entity-ORG-10" type="ORG">
+      <entity_mention id="m-81" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2468" length="4">ARMY</entity_mention>
+    </entity>
+    <entity id="ent-40" name="entity-ORG-11" type="ORG">
+      <entity_mention id="m-82" source="fbis_eng_20010903.1611" noun_type="NAM" offset="4255" length="42">THE SPECIAL ELECTRONIC CONFRONTATION FORCE</entity_mention>
+      <entity_mention id="m-83" source="fbis_eng_20010903.1611" noun_type="PRO" offset="4302" length="5">WHICH</entity_mention>
+    </entity>
+    <entity id="ent-41" name="entity-ORG-12" type="ORG">
+      <entity_mention id="m-84" source="fbis_eng_20010903.1611" noun_type="NOM" offset="2485" length="22">SECOND ARTILLERY CORPS</entity_mention>
+    </entity>
+    <entity id="ent-42" name="entity-ORG-13" type="ORG">
+      <entity_mention id="m-85" source="fbis_eng_20010903.1611" noun_type="NOM" offset="4962" length="9">COMMUNITY</entity_mention>
+      <entity_mention id="m-86" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5399" length="9">COMMUNITY</entity_mention>
+      <entity_mention id="m-87" source="fbis_eng_20010903.1611" noun_type="PRO" offset="4992" length="3">ITS</entity_mention>
+      <entity_mention id="m-88" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5700" length="9">COMMUNITY</entity_mention>
+      <entity_mention id="m-89" source="fbis_eng_20010903.1611" noun_type="NOM" offset="1075" length="9">COMMUNITY</entity_mention>
+    </entity>
+    <entity id="ent-43" name="entity-ORG-14" type="ORG">
+      <entity_mention id="m-90" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5944" length="28">JANE'S DEFENSE AFFAIRS GROUP</entity_mention>
+    </entity>
+    <entity id="ent-44" name="entity-ORG-15" type="ORG">
+      <entity_mention id="m-91" source="fbis_eng_20010903.1611" noun_type="NOM" offset="6152" length="5">FORCE</entity_mention>
+      <entity_mention id="m-92" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5779" length="5">FORCE</entity_mention>
+    </entity>
+    <entity id="ent-45" name="entity-ORG-16" type="ORG">
+      <entity_mention id="m-93" source="fbis_eng_20010903.1611" noun_type="NOM" offset="7668" length="12">ARMED FORCES</entity_mention>
+    </entity>
+    <entity id="ent-46" name="entity-ORG-17" type="ORG">
+      <entity_mention id="m-94" source="fbis_eng_20010903.1611" noun_type="NOM" offset="8837" length="8">DIVISION</entity_mention>
+    </entity>
+    <entity id="ent-47" name="entity-ORG-18" type="ORG">
+      <entity_mention id="m-95" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10470" length="11">AUTHORITIES</entity_mention>
+    </entity>
+    <entity id="ent-48" name="entity-ORG-19" type="ORG">
+      <entity_mention id="m-96" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10764" length="44">THE ""GENERAL POLITICAL WARFARE"
+"DEPARTMENT</entity_mention>
+    </entity>
+    <entity id="ent-49" name="entity-ORG-20" type="ORG">
+      <entity_mention id="m-97" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10875" length="5">MEDIA</entity_mention>
+      <entity_mention id="m-98" source="fbis_eng_20010903.1611" noun_type="PRO" offset="10931" length="4">THEY</entity_mention>
+      <entity_mention id="m-99" source="fbis_eng_20010903.1611" noun_type="PRO" offset="11025" length="4">THEY</entity_mention>
+    </entity>
+    <entity id="ent-50" name="entity-ORG-21" type="ORG">
+      <entity_mention id="m-100" source="fbis_eng_20010903.1611" noun_type="NOM" offset="10961" length="6">OFFICE</entity_mention>
+    </entity>
+    <entity id="ent-51" name="entity-ORG-22" type="ORG">
+      <entity_mention id="m-101" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11339" length="14">MILITARY UNITS</entity_mention>
+    </entity>
+    <entity id="ent-52" name="entity-ORG-23" type="ORG">
+      <entity_mention id="m-102" source="fbis_eng_20010903.1611" noun_type="NAM" offset="11771" length="24">GENERAL STAFF DEPARTMENT</entity_mention>
+    </entity>
+    <entity id="ent-53" name="entity-ORG-24" type="ORG">
+      <entity_mention id="m-103" source="fbis_eng_20010903.1611" noun_type="NOM" offset="12529" length="6">OWNERS</entity_mention>
+    </entity>
+    <entity id="ent-54" name="entity-ORG-25" type="ORG">
+      <entity_mention id="m-104" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9666" length="13">ZIYOU
+"SHIBAO</entity_mention>
+    </entity>
+    <entity id="ent-55" name="entity-ORG-26" type="ORG">
+      <entity_mention id="m-105" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11010" length="8">MILITARY</entity_mention>
+    </entity>
+    <entity id="ent-56" name="entity-ORG-27" type="ORG">
+      <entity_mention id="m-106" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6001" length="52">THE INTERNATIONAL DEFENSE AFFAIRS COMMENTARY
+JOURNAL</entity_mention>
+    </entity>
+    <entity id="ent-57" name="entity-ORG-28" type="ORG">
+      <entity_mention id="m-107" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6392" length="36">NATIONAL DEFENSE SCIENTIFIC RESEARCH</entity_mention>
+    </entity>
+    <entity id="ent-58" name="entity-ORG-29" type="ORG">
+      <entity_mention id="m-108" source="fbis_eng_20010903.1611" noun_type="NOM" offset="8749" length="16">COMMUNIST TROOPS</entity_mention>
+    </entity>
+    <entity id="ent-59" name="entity-ORG-30" type="ORG">
+      <entity_mention id="m-109" source="fbis_eng_20010903.1611" noun_type="NOM" offset="11882" length="6">ORGANS</entity_mention>
+    </entity>
+    <entity id="ent-60" name="entity-GPE-2" type="GPE">
+      <entity_mention id="m-110" source="fbis_eng_20010903.1611" noun_type="NAM" offset="800" length="5">CHINA</entity_mention>
+      <entity_mention id="m-111" source="fbis_eng_20010903.1611" noun_type="NAM" offset="2329" length="7">CHINESE</entity_mention>
+      <entity_mention id="m-112" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5010" length="7">CHINESE</entity_mention>
+      <entity_mention id="m-113" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5162" length="5">CHINA</entity_mention>
+      <entity_mention id="m-114" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5236" length="5">CHINA</entity_mention>
+      <entity_mention id="m-115" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5527" length="7">CHINESE</entity_mention>
+      <entity_mention id="m-116" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6128" length="5">CHINA</entity_mention>
+      <entity_mention id="m-117" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5742" length="5">CHINA</entity_mention>
+      <entity_mention id="m-118" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5907" length="5">CHINA</entity_mention>
+      <entity_mention id="m-119" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6184" length="5">CHINA</entity_mention>
+      <entity_mention id="m-120" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6384" length="5">CHINA</entity_mention>
+    </entity>
+    <entity id="ent-61" name="entity-GPE-3" type="GPE">
+      <entity_mention id="m-121" source="fbis_eng_20010903.1611" noun_type="NAM" offset="7195" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-122" source="fbis_eng_20010903.1611" noun_type="NAM" offset="7661" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-123" source="fbis_eng_20010903.1611" noun_type="NAM" offset="7854" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-124" source="fbis_eng_20010903.1611" noun_type="NAM" offset="7894" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-125" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8240" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-126" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8540" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-127" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10054" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-128" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9444" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-129" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10159" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-130" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10199" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-131" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10223" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-132" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10390" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-133" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10441" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-134" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10461" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-135" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10505" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-136" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10605" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-137" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10818" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-138" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10868" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-139" source="fbis_eng_20010903.1611" noun_type="NAM" offset="11136" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-140" source="fbis_eng_20010903.1611" noun_type="NAM" offset="11275" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-141" source="fbis_eng_20010903.1611" noun_type="NAM" offset="11808" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-142" source="fbis_eng_20010903.1611" noun_type="NAM" offset="11838" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-143" source="fbis_eng_20010903.1611" noun_type="NAM" offset="12055" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-144" source="fbis_eng_20010903.1611" noun_type="NAM" offset="12102" length="6">TAIWAN</entity_mention>
+      <entity_mention id="m-145" source="fbis_eng_20010903.1611" noun_type="PRO" offset="8965" length="3">OUR</entity_mention>
+      <entity_mention id="m-146" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6057" length="6">TAIWAN</entity_mention>
+    </entity>
+    <entity id="ent-62" name="entity-GPE-4" type="GPE">
+      <entity_mention id="m-147" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6228" length="17">THE UNITED STATES</entity_mention>
+      <entity_mention id="m-148" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6504" length="17">THE
+UNITED STATES</entity_mention>
+      <entity_mention id="m-149" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5105" length="17">THE UNITED STATES</entity_mention>
+      <entity_mention id="m-150" source="fbis_eng_20010903.1611" noun_type="NAM" offset="6602" length="17">THE UNITED STATES</entity_mention>
+      <entity_mention id="m-151" source="fbis_eng_20010903.1611" noun_type="NAM" offset="11112" length="17">THE UNITED STATES</entity_mention>
+    </entity>
+    <entity id="ent-63" name="entity-GPE-5" type="GPE">
+      <entity_mention id="m-152" source="fbis_eng_20010903.1611" noun_type="NAM" offset="1675" length="9">GUANGDONG</entity_mention>
+    </entity>
+    <entity id="ent-64" name="entity-GPE-6" type="GPE">
+      <entity_mention id="m-153" source="fbis_eng_20010903.1611" noun_type="NAM" offset="1823" length="6">FUJIAN</entity_mention>
+    </entity>
+    <entity id="ent-65" name="entity-GPE-7" type="GPE">
+      <entity_mention id="m-154" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5133" length="15">GREAT"
+"BRITAIN</entity_mention>
+      <entity_mention id="m-155" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5977" length="7">BRITAIN</entity_mention>
+    </entity>
+    <entity id="ent-66" name="entity-GPE-8" type="GPE">
+      <entity_mention id="m-156" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5124" length="6">RUSSIA</entity_mention>
+    </entity>
+    <entity id="ent-67" name="entity-GPE-9" type="GPE">
+      <entity_mention id="m-157" source="fbis_eng_20010903.1611" noun_type="NAM" offset="5150" length="6">FRANCE</entity_mention>
+    </entity>
+    <entity id="ent-68" name="entity-GPE-10" type="GPE">
+      <entity_mention id="m-158" source="fbis_eng_20010903.1611" noun_type="NAM" offset="2091" length="9">HONG KONG</entity_mention>
+      <entity_mention id="m-159" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10008" length="9">HONG KONG</entity_mention>
+    </entity>
+    <entity id="ent-69" name="entity-GPE-11" type="GPE">
+      <entity_mention id="m-160" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9340" length="7">NANJING</entity_mention>
+    </entity>
+    <entity id="ent-70" name="entity-GPE-12" type="GPE">
+      <entity_mention id="m-161" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9384" length="5">JINAN</entity_mention>
+    </entity>
+    <entity id="ent-71" name="entity-GPE-13" type="GPE">
+      <entity_mention id="m-162" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5085" length="9">COUNTRIES</entity_mention>
+    </entity>
+    <entity id="ent-72" name="entity-GPE-14" type="GPE">
+      <entity_mention id="m-163" source="fbis_eng_20010903.1611" noun_type="NOM" offset="9348" length="15">MILITARY REGION</entity_mention>
+    </entity>
+    <entity id="ent-73" name="entity-GPE-15" type="GPE">
+      <entity_mention id="m-164" source="fbis_eng_20010903.1611" noun_type="NOM" offset="9391" length="16">MILITARY
+"REGION</entity_mention>
+    </entity>
+    <entity id="ent-74" name="entity-LOC-2" type="LOC">
+      <entity_mention id="m-165" source="fbis_eng_20010903.1611" noun_type="NAM" offset="725" length="17">DONGSHAN"
+"ISLAND</entity_mention>
+      <entity_mention id="m-166" source="fbis_eng_20010903.1611" noun_type="NAM" offset="1598" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-167" source="fbis_eng_20010903.1611" noun_type="NAM" offset="1774" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-168" source="fbis_eng_20010903.1611" noun_type="NAM" offset="3261" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-169" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8355" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-170" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8445" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-171" source="fbis_eng_20010903.1611" noun_type="NAM" offset="8809" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-172" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9063" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-173" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9244" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-174" source="fbis_eng_20010903.1611" noun_type="NAM" offset="9762" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-175" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10099" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-176" source="fbis_eng_20010903.1611" noun_type="NAM" offset="10690" length="15">DONGSHAN ISLAND</entity_mention>
+      <entity_mention id="m-177" source="fbis_eng_20010903.1611" noun_type="NOM" offset="9849" length="8">LOCATION</entity_mention>
+    </entity>
+    <entity id="ent-75" name="entity-LOC-3" type="LOC">
+      <entity_mention id="m-178" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5098" length="5">WORLD</entity_mention>
+    </entity>
+    <entity id="ent-76" name="entity-LOC-4" type="LOC">
+      <entity_mention id="m-179" source="fbis_eng_20010903.1611" noun_type="NOM" offset="5346" length="3">SEA</entity_mention>
+      <entity_mention id="m-180" source="fbis_eng_20010903.1611" noun_type="PRO" offset="5351" length="5">WHERE</entity_mention>
+    </entity>
+    <entity id="ent-77" name="entity-LOC-5" type="LOC">
+      <entity_mention id="m-181" source="fbis_eng_20010903.1611" noun_type="NOM" offset="1840" length="5">AREAS</entity_mention>
+      <entity_mention id="m-182" source="fbis_eng_20010903.1611" noun_type="NOM" offset="1878" length="6">REGION</entity_mention>
+    </entity>
+    <entity id="ent-78" name="entity-LOC-6" type="LOC">
+      <entity_mention id="m-183" source="fbis_eng_20010903.1611" noun_type="NAM" offset="4767" length="19">THE SOUTH CHINA SEA</entity_mention>
+    </entity>
+    <entity id="ent-79" name="entity-LOC-7" type="LOC">
+      <entity_mention id="m-184" source="fbis_eng_20010903.1611" noun_type="NAM" offset="4788" length="18">THE EAST CHINA SEA</entity_mention>
+    </entity>
+    <entity id="ent-80" name="entity-LOC-8" type="LOC">
+      <entity_mention id="m-185" source="fbis_eng_20010903.1611" noun_type="NAM" offset="4813" length="16">THE"
+"YELLOW SEA</entity_mention>
+    </entity>
+    <entity id="ent-81" name="entity-LOC-9" type="LOC">
+      <entity_mention id="m-186" source="fbis_eng_20010903.1611" noun_type="NAM" offset="4431" length="15">THE
+"TAIWAN SEA</entity_mention>
+    </entity>
+    <entity id="ent-82" name="entity-TITLE-2" type="TITLE">
+      <entity_mention id="m-187" source="fbis_eng_20010903.1611" noun_type="" offset="6337" length="8">MARSHALL</entity_mention>
+      <entity_mention id="m-188" source="fbis_eng_20010903.1611" noun_type="" offset="6621" length="8">MARSHALL</entity_mention>
+    </entity>
+    <entity id="ent-83" name="entity-TITLE-5" type="TITLE">
+      <entity_mention id="m-189" source="fbis_eng_20010903.1611" noun_type="" offset="7586" length="7">GENERAL</entity_mention>
+    </entity>
+    <entity id="ent-84" name="entity-TITLE-6" type="TITLE">
+      <entity_mention id="m-190" source="fbis_eng_20010903.1611" noun_type="" offset="7627" length="26">CHIEF OF THE GENERAL STAFF</entity_mention>
+    </entity>
+    <entity id="ent-85" name="entity-TITLE-7" type="TITLE">
+      <entity_mention id="m-191" source="fbis_eng_20010903.1611" noun_type="" offset="8251" length="25">NATIONAL DEFENSE MINISTER</entity_mention>
+    </entity>
+    <entity id="ent-86" name="entity-TITLE-8" type="TITLE">
+      <entity_mention id="m-192" source="fbis_eng_20010903.1611" noun_type="" offset="11237" length="26">CHIEF OF THE GENERAL STAFF</entity_mention>
+    </entity>
+    <entity id="ent-87" name="entity-TITLE-1" type="TITLE">
+      <entity_mention id="m-193" source="fbis_eng_20010903.1611" noun_type="" offset="6675" length="19">NAVY VICE COMMANDER</entity_mention>
+    </entity>
+    <entity id="ent-88" name="entity-TITLE-3" type="TITLE">
+      <entity_mention id="m-194" source="fbis_eng_20010903.1611" noun_type="" offset="6648" length="14">NAVY COMMISSAR</entity_mention>
+    </entity>
+  </entities>
+  <relations>
+    <relation id="r-1" type="partwhole" subtype="subsidiary">
+      <arg number="1" entity_id="ent-31" entity_mention_id="m-46"/>
+      <arg number="2" entity_id="ent-32" entity_mention_id="m-57"/>
+    </relation>
+    <relation id="r-2" type="partwhole" subtype="subsidiary">
+      <arg number="1" entity_id="ent-31" entity_mention_id="m-47"/>
+      <arg number="2" entity_id="ent-32" entity_mention_id="m-56"/>
+    </relation>
+    <relation id="r-3" type="physical" subtype="located">
+      <arg number="1" entity_id="ent-77" entity_mention_id="m-181"/>
+      <arg number="2" entity_id="ent-64" entity_mention_id="m-153"/>
+    </relation>
+    <relation id="r-4" type="partwhole" subtype="subsidiary">
+      <arg number="1" entity_id="ent-31" entity_mention_id="m-48"/>
+      <arg number="2" entity_id="ent-32" entity_mention_id="m-63"/>
+    </relation>
+    <relation id="r-5" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-3" entity_mention_id="m-4"/>
+      <arg number="2" entity_id="ent-68" entity_mention_id="m-158"/>
+    </relation>
+    <relation id="r-6" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-32" entity_mention_id="m-49"/>
+      <arg number="2" entity_id="ent-60" entity_mention_id="m-111"/>
+    </relation>
+    <relation id="r-7" type="partwhole" subtype="subsidiary">
+      <arg number="1" entity_id="ent-37" entity_mention_id="m-79"/>
+      <arg number="2" entity_id="ent-32" entity_mention_id="m-59"/>
+    </relation>
+    <relation id="r-8" type="physical" subtype="located">
+      <arg number="1" entity_id="ent-62" entity_mention_id="m-149"/>
+      <arg number="2" entity_id="ent-75" entity_mention_id="m-178"/>
+      <trigger source="fbis_eng_20010903.1611" offset="5095" length="2">IN</trigger>
+    </relation>
+    <relation id="r-9" type="physical" subtype="located">
+      <arg number="1" entity_id="ent-66" entity_mention_id="m-156"/>
+      <arg number="2" entity_id="ent-75" entity_mention_id="m-178"/>
+      <trigger source="fbis_eng_20010903.1611" offset="5095" length="2">IN</trigger>
+    </relation>
+    <relation id="r-10" type="physical" subtype="located">
+      <arg number="1" entity_id="ent-65" entity_mention_id="m-154"/>
+      <arg number="2" entity_id="ent-75" entity_mention_id="m-178"/>
+      <trigger source="fbis_eng_20010903.1611" offset="5095" length="2">IN</trigger>
+    </relation>
+    <relation id="r-11" type="physical" subtype="located">
+      <arg number="1" entity_id="ent-67" entity_mention_id="m-157"/>
+      <arg number="2" entity_id="ent-75" entity_mention_id="m-178"/>
+      <trigger source="fbis_eng_20010903.1611" offset="5095" length="2">IN</trigger>
+    </relation>
+    <relation id="r-12" type="physical" subtype="located">
+      <arg number="1" entity_id="ent-60" entity_mention_id="m-113"/>
+      <arg number="2" entity_id="ent-75" entity_mention_id="m-178"/>
+      <trigger source="fbis_eng_20010903.1611" offset="5095" length="2">IN</trigger>
+    </relation>
+    <relation id="r-13" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-44" entity_mention_id="m-92"/>
+      <arg number="2" entity_id="ent-60" entity_mention_id="m-117"/>
+    </relation>
+    <relation id="r-14" type="affiliation" subtype="employmentmembership">
+      <arg number="1" entity_id="ent-8" entity_mention_id="m-11"/>
+      <arg number="2" entity_id="ent-43" entity_mention_id="m-90"/>
+      <trigger source="fbis_eng_20010903.1611" offset="5941" length="2">OF</trigger>
+    </relation>
+    <relation id="r-15" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-43" entity_mention_id="m-90"/>
+      <arg number="2" entity_id="ent-65" entity_mention_id="m-155"/>
+      <trigger source="fbis_eng_20010903.1611" offset="5973" length="2">OF</trigger>
+    </relation>
+    <relation id="r-16" type="affiliation" subtype="employmentmembership">
+      <arg number="1" entity_id="ent-6" entity_mention_id="m-8"/>
+      <arg number="2" entity_id="ent-56" entity_mention_id="m-106"/>
+      <trigger source="fbis_eng_20010903.1611" offset="5997" length="2">OF</trigger>
+    </relation>
+    <relation id="r-17" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-56" entity_mention_id="m-106"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-146"/>
+      <trigger source="fbis_eng_20010903.1611" offset="6054" length="2">OF</trigger>
+    </relation>
+    <relation id="r-18" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-44" entity_mention_id="m-91"/>
+      <arg number="2" entity_id="ent-60" entity_mention_id="m-116"/>
+    </relation>
+    <relation id="r-19" type="social" subtype="role">
+      <arg number="1" entity_id="ent-82" entity_mention_id="m-187"/>
+      <arg number="2" entity_id="ent-9" entity_mention_id="m-12"/>
+    </relation>
+    <relation id="r-20" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-57" entity_mention_id="m-107"/>
+      <arg number="2" entity_id="ent-60" entity_mention_id="m-120"/>
+    </relation>
+    <relation id="r-21" type="social" subtype="role">
+      <arg number="1" entity_id="ent-82" entity_mention_id="m-188"/>
+      <arg number="2" entity_id="ent-9" entity_mention_id="m-14"/>
+    </relation>
+    <relation id="r-22" type="social" subtype="role">
+      <arg number="1" entity_id="ent-88" entity_mention_id="m-194"/>
+      <arg number="2" entity_id="ent-13" entity_mention_id="m-24"/>
+    </relation>
+    <relation id="r-23" type="social" subtype="role">
+      <arg number="1" entity_id="ent-87" entity_mention_id="m-193"/>
+      <arg number="2" entity_id="ent-14" entity_mention_id="m-25"/>
+    </relation>
+    <relation id="r-24" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-67"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-121"/>
+    </relation>
+    <relation id="r-25" type="social" subtype="role">
+      <arg number="1" entity_id="ent-83" entity_mention_id="m-189"/>
+      <arg number="2" entity_id="ent-12" entity_mention_id="m-20"/>
+    </relation>
+    <relation id="r-26" type="social" subtype="role">
+      <arg number="1" entity_id="ent-84" entity_mention_id="m-190"/>
+      <arg number="2" entity_id="ent-12" entity_mention_id="m-20"/>
+    </relation>
+    <relation id="r-27" type="affiliation" subtype="employmentmembership">
+      <arg number="1" entity_id="ent-12" entity_mention_id="m-20"/>
+      <arg number="2" entity_id="ent-45" entity_mention_id="m-93"/>
+      <trigger source="fbis_eng_20010903.1611" offset="7654" length="2">OF</trigger>
+    </relation>
+    <relation id="r-28" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-45" entity_mention_id="m-93"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-122"/>
+    </relation>
+    <relation id="r-29" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-11" entity_mention_id="m-16"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-125"/>
+    </relation>
+    <relation id="r-30" type="social" subtype="role">
+      <arg number="1" entity_id="ent-85" entity_mention_id="m-191"/>
+      <arg number="2" entity_id="ent-11" entity_mention_id="m-16"/>
+    </relation>
+    <relation id="r-31" type="partwhole" subtype="subsidiary">
+      <arg number="1" entity_id="ent-46" entity_mention_id="m-94"/>
+      <arg number="2" entity_id="ent-58" entity_mention_id="m-108"/>
+    </relation>
+    <relation id="r-32" type="partwhole" subtype="subsidiary">
+      <arg number="1" entity_id="ent-35" entity_mention_id="m-76"/>
+      <arg number="2" entity_id="ent-58" entity_mention_id="m-108"/>
+    </relation>
+    <relation id="r-33" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-20" entity_mention_id="m-31"/>
+      <arg number="2" entity_id="ent-73" entity_mention_id="m-164"/>
+      <trigger source="fbis_eng_20010903.1611" offset="9411" length="6">SOURCE</trigger>
+    </relation>
+    <relation id="r-34" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-23" entity_mention_id="m-35"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-129"/>
+      <trigger source="fbis_eng_20010903.1611" offset="10156" length="2">IN</trigger>
+    </relation>
+    <relation id="r-35" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-73"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-130"/>
+    </relation>
+    <relation id="r-36" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-47" entity_mention_id="m-95"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-134"/>
+    </relation>
+    <relation id="r-37" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-66"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-132"/>
+    </relation>
+    <relation id="r-38" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-23" entity_mention_id="m-36"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-135"/>
+    </relation>
+    <relation id="r-39" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-23" entity_mention_id="m-37"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-136"/>
+    </relation>
+    <relation id="r-40" type="partwhole" subtype="subsidiary">
+      <arg number="1" entity_id="ent-48" entity_mention_id="m-96"/>
+      <arg number="2" entity_id="ent-34" entity_mention_id="m-69"/>
+      <trigger source="fbis_eng_20010903.1611" offset="10811" length="2">OF</trigger>
+    </relation>
+    <relation id="r-41" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-69"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-137"/>
+    </relation>
+    <relation id="r-42" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-49" entity_mention_id="m-97"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-138"/>
+    </relation>
+    <relation id="r-43" type="affiliation" subtype="employmentmembership">
+      <arg number="1" entity_id="ent-25" entity_mention_id="m-39"/>
+      <arg number="2" entity_id="ent-34" entity_mention_id="m-70"/>
+    </relation>
+    <relation id="r-44" type="affiliation" subtype="leadership">
+      <arg number="1" entity_id="ent-25" entity_mention_id="m-39"/>
+      <arg number="2" entity_id="ent-50" entity_mention_id="m-100"/>
+    </relation>
+    <relation id="r-45" type="social" subtype="role">
+      <arg number="1" entity_id="ent-86" entity_mention_id="m-192"/>
+      <arg number="2" entity_id="ent-12" entity_mention_id="m-23"/>
+    </relation>
+    <relation id="r-46" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-71"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-140"/>
+    </relation>
+    <relation id="r-47" type="affiliation" subtype="employmentmembership">
+      <arg number="1" entity_id="ent-12" entity_mention_id="m-23"/>
+      <arg number="2" entity_id="ent-34" entity_mention_id="m-71"/>
+    </relation>
+    <relation id="r-48" type="partwhole" subtype="subsidiary">
+      <arg number="1" entity_id="ent-52" entity_mention_id="m-102"/>
+      <arg number="2" entity_id="ent-34" entity_mention_id="m-72"/>
+      <trigger source="fbis_eng_20010903.1611" offset="11798" length="2">OF</trigger>
+    </relation>
+    <relation id="r-49" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-72"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-141"/>
+    </relation>
+    <relation id="r-50" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-74"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-142"/>
+    </relation>
+    <relation id="r-51" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-34" entity_mention_id="m-75"/>
+      <arg number="2" entity_id="ent-61" entity_mention_id="m-144"/>
+    </relation>
+    <relation id="r-52" type="physical" subtype="origin">
+      <arg number="1" entity_id="ent-22" entity_mention_id="m-33"/>
+      <arg number="2" entity_id="ent-72" entity_mention_id="m-163"/>
+      <trigger source="fbis_eng_20010903.1611" offset="9325" length="4">CAME</trigger>
+    </relation>
+  </relations>
+  <events>
+    <event id="e-1" type="business" subtype="startorg">
+      <arg number="1" entity_id="ent-31" entity_mention_id="m-47"/>
+      <trigger source="fbis_eng_20010903.1611" offset="1666" length="5">MOVED</trigger>
+    </event>
+    <event id="e-2" type="business" subtype="startorg">
+      <arg number="1" entity_id="ent-40" entity_mention_id="m-83"/>
+      <trigger source="fbis_eng_20010903.1611" offset="4312" length="11">ESTABLISHED</trigger>
+    </event>
+    <event id="e-3" type="contact" subtype="meet">
+      <arg number="1" entity_id="ent-49" entity_mention_id="m-97"/>
+      <arg number="2" entity_id="ent-48" entity_mention_id="m-96"/>
+      <trigger source="fbis_eng_20010903.1611" offset="10886" length="7">MEETING</trigger>
+    </event>
+  </events>
+</deft_ere>
