@@ -43,6 +43,7 @@ def create_gold_standard(onlyannotations, onlyfiles):
 	for f in onlyfiles:
 			with open (f, "r") as myfile:
 					data = myfile.read().encode('utf-8')
+			print data
 			# identifier is up to the index of the first '.'
 			identifier = f[f.rfind('/') + 1:f.rfind('.')]
 			# get the dictionary of entity mention offset to 
@@ -218,9 +219,9 @@ def train():
 	Perform training process, given the raw training file and
 	the annotations file.
 	'''
-	mypath = "ToolsForNLP/Tools-IE-assignment/Annotated/"
+	mypath = "Tools-IE-assignment/Annotated/"
 	onlyfiles = [ mypath + f for f in listdir(mypath) if isfile(join(mypath, f)) and "tokenized" not in f ]
-	myannotations = "ToolsForNLP/Tools-IE-assignment/Raw/"
+	myannotations = "Tools-IE-assignment/Raw/"
 	# # get all annotated training data
 	onlyannotations = [ myannotations + f for f in listdir(myannotations) if isfile(join(myannotations, f))]
 	create_gold_standard(onlyannotations, onlyfiles)
