@@ -158,20 +158,19 @@ def read_dep_tagged_features(dep_tagged_file):
 	for item in token_to_features:
 		if item != None:
 			synsets = wordnet.synsets(item[0])
-			type = "None"
 			marked_synsets = synset_to_hint.keys()
-			for synset in synsets:
-				for marked_synset in marked_synsets:
-					lch = marked_synset.hyponyms()
-					# not the case that nothing was returned, 
-					# and if something was returned then it has only 1 elemenet which is entity
+			for marked_synset in marked_synsets:
+				lch = marked_synset.hyponyms()
+				matches = False
+				for synset in synsets:
+				# not the case that nothing was returned, 
+				# and if something was returned then it has only 1 elemenet which is entity
 					if synset in lch:
-						type = synset_to_hint[marked_synset]
+						matches = True
 						break
-				if type != "None":
-					break
-			new_item = item + tuple((type,))
-			final_token_to_features.append(new_item)
+				
+				item += matches,
+			final_token_to_features.append(item)
 		else:
 			final_token_to_features.append(None)
 	return final_token_to_features
@@ -187,8 +186,11 @@ def put_together_final_training(final_token_to_features, gold_file):
 	for i, line in enumerate(gold_file):
 		gold_label = ""
 		if line != "\n":
+			write_line = ""
 			gold_label = line.split()[1]
-			write_line = "{0}\t{1}\t{2}\t{3}\t{4}\n".format(final_token_to_features[i][0],final_token_to_features[i][1],final_token_to_features[i][2],final_token_to_features[i][3],gold_label)
+			for item in final_token_to_features[i]:
+				write_line+=str(item)+"\t"
+			write_line+=gold_label+"\n"
 			training_file.write(write_line)
 		else:
 			training_file.write("\n")
@@ -202,7 +204,10 @@ def put_together_final_test(final_token_to_features):
 	training_file = open('test_file','w')
 	for element in final_token_to_features:
 		if element != None:
-			write_line = "{0}\t{1}\t{2}\t{3}\n".format(element[0],element[1],element[2],element[3])
+			write_line = ""
+			for item in element:
+				write_line += str(item)+"\t"
+			write_line+="\n"
 			training_file.write(write_line)
 		else:
 			training_file.write("\n")
